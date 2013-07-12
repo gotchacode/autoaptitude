@@ -31,4 +31,5 @@ Alternatively you could also use it as a tool to back up your current installati
 - Give credit to the parent, inspiration projects
 - Also, show some alternatives
 
-
+##License
+MIT

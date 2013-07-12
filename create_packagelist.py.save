@@ -1,24 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""
-    autoaptitude
-    ~~~~~~~~~~~~
-
-    Creates a list for autoaptitude.sh
-
-    idea from:
-        http://ubuntuforums.org/showthread.php?t=442974
-
-    Last commit info:
-    ~~~~~~~~~~~~~~~~~
-    $LastChangedDate: $
-    $Rev: $
-    $Author: $
-
-    :copyleft: 2008 by Jens Diemer
-    :license: GNU GPL v3, see LICENSE.txt for more details.
-"""
 
 import os, sys, time, subprocess, datetime
 from pprint import pprint

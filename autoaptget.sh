@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# based on: http://ubuntuforums.org/showthread.php?t=442974
-
 function info {
     echo ""
     echo "**** $1 ****"
