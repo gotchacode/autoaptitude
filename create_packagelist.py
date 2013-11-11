@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 
-import os, sys, time, subprocess, datetime
+import sys, time, subprocess, datetime
 from pprint import pprint
 
 
